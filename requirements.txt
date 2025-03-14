@@ -2,3 +2,5 @@ fastapi
 uvicorn
 selenium
 requests
+sqlalchemy
+psychopg2-binary

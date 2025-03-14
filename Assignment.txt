@@ -10,6 +10,6 @@ Persist the data which was fetched by the scrapper to any relational database (P
 
 Web Server:
 Create a web server with below API's
-Get price range of the given car model 
-Get the top common selling car of the given month
-Get the least common selling car of the given month
+- Get price range of the given car model 
+- Get the top common selling car of the given month
+- Get the least common selling car of the given month

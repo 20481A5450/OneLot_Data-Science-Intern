@@ -1,1 +1,10 @@
 Postgres Database Schema
+
+CREATE DATABASE cars_db;
+
+CREATE TABLE cars (
+    id SERIAL PRIMARY KEY,
+    title TEXT,
+    price NUMERIC,
+    sold_date DATE  -- To track monthly sales
+);
